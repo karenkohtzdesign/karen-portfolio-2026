@@ -10,7 +10,7 @@ Images downloaded at original resolution to images/most-recent-work/:
 5. screenshot-2022-01-26-10.28.07pm.png
 6. screenshot-2022-01-26-10.31.01pm.png
 7. screenshot-2022-01-26-10.33.00pm.png
-8. screenshot-2022-01-26-10.34.14pm.png
+8. DealzInterface.png (renamed from screenshot-2022-01-26-10.34.14pm.png)
 
 External prototype/wireframe links (not files — live tools, linked from the page):
 - Wireframes (Moqups): https://app.moqups.com/44teWOeg79QXrST7ldmn0Yr5QX5Z3Yyt/view
