@@ -1,0 +1,19 @@
+Page: Most Recent Work (DEALZ case study)
+URL: https://karenkohtzdesigns.squarespace.com/recentprojects
+Page created (decoded from internal collection ID, ~matches screenshot dates below): 2022-01-25T04:24:46Z
+
+Images downloaded at original resolution to images/most-recent-work/:
+1. tacos.png
+2. use-case-onboarding.png
+3. use-case-browsing.png
+4. use-case-notifications.png
+5. screenshot-2022-01-26-10.28.07pm.png
+6. screenshot-2022-01-26-10.31.01pm.png
+7. screenshot-2022-01-26-10.33.00pm.png
+8. screenshot-2022-01-26-10.34.14pm.png
+
+External prototype/wireframe links (not files — live tools, linked from the page):
+- Wireframes (Moqups): https://app.moqups.com/44teWOeg79QXrST7ldmn0Yr5QX5Z3Yyt/view
+- Prototype (Adobe XD): https://xd.adobe.com/view/a7dacc83-3b52-43d4-aea0-b96efba2bf49-f289/
+
+Custom code injection: not checked yet for this page (Stock Game's was empty/gated as Premium — worth spot-checking if you rely on custom code elsewhere).

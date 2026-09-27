@@ -1,0 +1,106 @@
+/* Recreated from Karen's Squarespace design tokens — see site-wide-style.md
+   Fonts pulled from Google Fonts (both free): Archivo Black (headings), Mulish (body) */
+@import url('https://fonts.googleapis.com/css2?family=Archivo+Black&family=Mulish:ital,wght@0,400;0,700;1,400&display=swap');
+
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  background: #fff;
+  color: #000;
+  font-family: 'Mulish', sans-serif;
+  font-size: 16px;
+  line-height: 2.2em;
+  letter-spacing: 0.025em;
+}
+
+/* the 50px white "frame" border Squarespace applied site-wide */
+.page-frame {
+  border: 50px solid #fff;
+  outline: 1px solid #eee; /* just so the frame is visible against a white page — remove once there's a real background */
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 40px;
+}
+
+h1, h2, h3 {
+  font-family: 'Archivo Black', sans-serif;
+  text-transform: uppercase;
+  font-weight: 400;
+  line-height: 1em;
+  margin: 1.2em 0 0.4em;
+}
+
+h1 {
+  font-size: 64px; /* scaled down from Squarespace's 110px to fit a normal page better */
+  letter-spacing: -2px;
+  margin-top: 0;
+}
+
+h2 {
+  font-size: 25px;
+  letter-spacing: 0.09em;
+}
+
+h3 {
+  font-size: 18px;
+  letter-spacing: 0.05em;
+}
+
+.subtitle {
+  font-family: 'Archivo Black', sans-serif;
+  text-transform: uppercase;
+  font-size: 18px;
+  letter-spacing: 0.05em;
+  margin-top: 0;
+}
+
+.meta {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  gap: 1em 2em;
+  margin: 2em 0;
+  padding: 1.5em 0;
+  border-top: 1px solid #000;
+  border-bottom: 1px solid #000;
+}
+
+.meta > div { margin: 0; }
+.meta dt { font-weight: 700; }
+.meta dd { margin: 0; }
+
+.case-study-body p { margin: 1em 0; }
+.case-study-body ul, .case-study-body ol { margin: 1em 0; padding-left: 1.4em; }
+.case-study-body li { margin: 0.4em 0; }
+
+.external-links { font-weight: 700; }
+.external-links a { color: #000; }
+
+.full-image {
+  display: block;
+  width: 100%;
+  height: auto;
+  margin: 2em 0;
+}
+
+.image-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 1em;
+  margin: 2em 0;
+}
+
+.image-grid img { width: 100%; height: auto; display: block; }
+
+.page-footer {
+  margin-top: 3em;
+  padding-top: 1.5em;
+  border-top: 1px solid #000;
+}
+
+.page-footer a {
+  font-family: 'Archivo Black', sans-serif;
+  text-transform: uppercase;
+  text-decoration: underline;
+  color: #000;
+}

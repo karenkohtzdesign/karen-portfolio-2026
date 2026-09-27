@@ -1,0 +1,30 @@
+Page: Pocket Casanova
+URL: https://karenkohtzdesigns.squarespace.com/pocket-casanova
+Nav location: Footer navigation (password-protected — lock icon in admin, but owner preview bypasses it)
+Page created (decoded from internal collection ID): 2022-04-18T21:28:15Z
+
+56 images downloaded at original resolution to images/pocket-casanova/, grouped into 7
+document galleries (each gallery = one multi-page research doc rendered as page images).
+
+⚠️ IMPORTANT CAVEAT: Squarespace doesn't expose which image belongs to which labeled
+document via a simple attribute — I matched each gallery to its heading by (1) counting
+images per gallery block in DOM order and (2) matching that order against the 7 document
+labels as they appear in the page text, in the same sequence. This is a reasonable
+inference, not a confirmed mapping — please spot-check a few images per group against the
+live page before treating this as final.
+
+1. market-analysis-v1-01.png .. 10.png   → "MARKET ANALYSIS V1" (10 pages)
+2. competitive-research-v1-01.png .. 05.png → "COMPETITIVE RESEARCH V1" (5 pages)
+3. survey-analysis-01.jpg .. 24.jpg → "SURVEY ANALYSIS" (24 pages)
+4. competitive-research-v2-01.jpg .. 05.jpg → "COMPETITIVE RESEARCH V2" (5 pages)
+5. market-selection-segmentation-01.jpg .. 03.jpg → "MARKET SELECTION & SEGMENTATION" (3 pages)
+6. user-personas-v1-01.png .. 04.png → "USER PERSONAS V1" (4 pages)
+7. user-personas-v2-01.png .. 05.png → "USER PERSONAS V2" (5 pages)
+
+Other external links on this page (not files, just referenced):
+- mailto:karen.kohtz@gmail.com
+- https://indd.adobe.com/view/8198908f-0926-4866-a330-448cf8a11cb5 (Adobe InDesign shared doc — appears sitewide in footer/nav area, not specific to this page)
+- https://www.youtube.com/@SheSewsDiscord
+- https://www.behance.net/karenkohtz
+
+Custom code injection: not checked for this page.

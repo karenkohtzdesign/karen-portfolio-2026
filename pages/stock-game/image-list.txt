@@ -1,0 +1,20 @@
+Page: Stock Game
+URL: https://karenkohtzdesigns.squarespace.com/stock-game-case-study
+Nav location: Footer navigation (password-protected — lock icon shown in admin page list)
+
+Native Squarespace images on this page: NONE FOUND
+(Checked <img> tags, CSS background-images, and all images.squarespace-cdn.com URLs in the
+full rendered HTML — this page has no inline images/wireframe screenshots hosted on Squarespace.)
+
+Visual content for this case study lives in embedded/external sources instead:
+- Google Slides embed (this is where the actual wireframes/mockups likely are):
+  https://docs.google.com/presentation/d/1rJlZMUpkX_QNhMIRR1ksDJEiKxR5NuRDqPLpaBwJMZQ/edit?usp=sharing
+  -> Check your Google Drive for this file directly; download it from there for full-resolution slides.
+
+Other external links found on this page (not downloaded — just noted):
+- https://indd.adobe.com/view/8198908f-0926-4866-a330-448cf8a11cb5  (Adobe InDesign shared doc)
+- https://www.youtube.com/@SheSewsDiscord
+- https://www.behance.net/karenkohtz
+
+Custom code injection (Page Settings > Advanced > Page Header Code Injection): none found (empty).
+Note: this field is also gated as a "Premium Feature" on your current plan.
