@@ -129,6 +129,7 @@
   .principles .lead h2{font-family:var(--display);font-weight:700;font-size:1.7rem;letter-spacing:-.02em;margin-top:.4rem}
   .triad{display:grid;grid-template-columns:repeat(3,1fr);gap:22px;align-items:stretch}
   .pcard{display:flex;flex-direction:column;background:var(--paper);border:1px solid var(--line);border-radius:16px;padding:28px 26px 30px}
+  a.pcard{text-decoration:none}
   .pcard .num{font-family:var(--mono);font-size:.8rem;font-weight:600;color:var(--orange);letter-spacing:.08em}
   .pcard h3{font-family:var(--display);font-weight:700;font-size:1.22rem;margin:14px 0 16px;padding-bottom:16px;border-bottom:1px solid var(--line);letter-spacing:-.01em}
   .pcard p{font-size:.95rem;color:var(--slate);margin:0}
